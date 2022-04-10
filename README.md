@@ -5,6 +5,13 @@ Healthcare platform that connects patients to healthcare providers around their 
 From finding the healthcare provider to booking an appointment, online doctor consultation, getting their tests done and even ordering medicines and getting it delivered to them by drones.   
 <br> <br>
 
+#  Integration of The Alan Platform that enables intelligent and contextual in-app voice assistant in every mobile & web app!
+<br>  <br>
+-   Integrated voice assistant in the application that enhances user experience and accessibility. 
+
+-   Users can create an appointment,send an SOS, request for Prescription ,go bak to the previous page by just speaking to our Voice assistant.
+
+<br> <br>
 # Prototype UI Snippets
  
 ## Doctor Dashboard
