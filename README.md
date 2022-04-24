@@ -1,4 +1,9 @@
 # Sugam -- KJSCE-HACK -- Aarogya-Bharat
+
+LIVE AT : https://sugam01.netlify.app
+
+USE VOICE ASSISTANT FROM ALAN AI TO CREATE AN EMERGENCY OR TO FIX AN APPOINTMENT WITH THE NEAREST DOCTORS BASED ON YOUR GPS COORDINATES
+
 <br>  <br>
 Healthcare platform that connects patients to healthcare providers around their area and helps people make better healthcare decisions and advice. 
 <br> <br>
